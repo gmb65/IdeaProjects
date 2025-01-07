@@ -1,4 +1,6 @@
-import ex0305.creatingclass.Dog;
+package ex0305.creatingclass.src;
+
+import creatingclass.Dog;
 
 public class DogMain {
     public static void main(String[] args){
