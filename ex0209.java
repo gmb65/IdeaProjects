@@ -1,7 +1,7 @@
-public class MethodExercise {
+class MethodExercise {
 
     public static void main(String[] args) {
-        System.out.println("The Sum is: " + MethodExercise.addNumbers(7,7));
+        System.out.println("The Sum is: " + MethodExercise2.addNumbers(7,7));
     }
 
     // Add your function here:

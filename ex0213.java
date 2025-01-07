@@ -1,4 +1,4 @@
-public class ServiceTest {
+class ServiceTest {
     private String serviceId;
 
     public static void main(String[] args){

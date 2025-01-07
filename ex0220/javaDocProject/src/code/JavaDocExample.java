@@ -1,4 +1,4 @@
-package code;
+package ex0220.javaDocProject.src.code;
 
 /**
  * This is my first JavaDoc

@@ -1,9 +1,7 @@
-import creatingclass.Dog;
+import ex0305.creatingclass.Dog;
 
 public class DogMain {
     public static void main(String[] args){
-        super()
-
         Dog myDog = new Dog("Andi", "Dackel", "braun", 6);
         System.out.println(myDog);
 

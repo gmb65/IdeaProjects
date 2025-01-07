@@ -1,4 +1,4 @@
-package code;
+package ex0218.myFirstProject.src.code;
 
 public class FirstClass {
 

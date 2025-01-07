@@ -1,3 +1,5 @@
+package ex0305a.subSuper.src;
+
 public class Subclass extends Superclass {
 
     // overrides printMethod in Superclass

@@ -1,4 +1,4 @@
-package creatingclass;
+package ex0305.creatingclass.src.creatingclass;
 
 public class Dog {
     private String dogType;
@@ -8,6 +8,7 @@ public class Dog {
 
     // Constructor
     public Dog(String dT, String dN, String dC, int dA){
+        super();
         this.dogType = dT;
         this.dogName = dN;
         this.dogColor = dC;
