@@ -1,4 +1,4 @@
-package ex0307.workingWithObjects;
+package ex0307.workingWithObjects.src;
 
 public class PersonTester {
     public static void main(String[] args){
