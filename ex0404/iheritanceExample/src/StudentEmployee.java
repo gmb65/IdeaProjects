@@ -1,4 +1,4 @@
-package ex0404.src.iheritanceExample;
+package ex0404.iheritanceExample.src;
 
 public class StudentEmployee extends Student {
     private double rateOfPayPerHour;

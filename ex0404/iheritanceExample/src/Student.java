@@ -1,4 +1,4 @@
-package ex0404.src.iheritanceExample;
+package ex0404.iheritanceExample.src;
 
 public class Student extends Person{
     private String studentId;
