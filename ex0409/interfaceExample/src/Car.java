@@ -3,7 +3,7 @@ package ex0409.interfaceExample.src;
 public class Car implements Vehicle, Production{
     private String type;
     private String speed;
-    private String color
+    private String color;
 
     public Car(String type, String speed, String color) {
         this.type = type;
@@ -13,8 +13,7 @@ public class Car implements Vehicle, Production{
 
     @Override
     public void location() {
-        super.location();
-        return "Car location";
+        System.out.println("Production.location");
     }
 
     @Override
